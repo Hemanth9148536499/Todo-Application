@@ -1,0 +1,16 @@
+body,html{
+    background-color: brown;
+}
+table,h4,form{
+
+   font-family: serif;
+}
+
+header{
+    position: fixed;
+    width: 100%;
+}
+
+#todoComponent{
+    background-color:brown;
+}
